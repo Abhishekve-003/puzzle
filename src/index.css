@@ -1,13 +1,61 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+/* html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: "Inter", sans-serif;
+} */
+
+html,body{
+  background-color: rgb(201, 198, 198);
+} 
+.main {
+  /* display: flex; */
+  /* background-color: rgb(201, 198, 198); */
+  /* width: 100%; */
+  /* height: 600px; */
+  /* height: calc(188px); */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* padding: 260px; */
+}
+.btn-0 {
+  display: flex;
+}
+.btn {
+  background-color: blueviolet;
+  color: aliceblue;
+  padding: 12px;
+  border-radius: 5px;
+  display: flex;
+  font-weight: 700;
+  font-size: large;
+}
+.login {
+  
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  /* border: 2px solid red; */
+  padding: 15px;
+}
+.log0 {
+  /* background-color: aquamarine; */
+}
+.logout {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 18px;
+  margin-top: 12px;
+}
+.loginpara{
+  display: flex;
+  flex-direction: column;
+  margin-left: 5vh;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+
