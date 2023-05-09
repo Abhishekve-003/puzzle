@@ -50,4 +50,7 @@ https://puzzle-z7c7.onrender.com
 
 
 
+![Screenshot (42)](https://github.com/Abhishekve-003/puzzle/blob/master/src/assests/Screenshot%20%5B%20Puzzle%20Game%5D.png)
+
+
 
