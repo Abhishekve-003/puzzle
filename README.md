@@ -7,18 +7,23 @@
 
 It is an interacting puzzle game that will analyze the visualization , analytical and problem solving ability of the users. There are capable clues provided , which will healp out users to find the answers. The accuracy level of the users is calculated by measuring the score at each page.
 
-### `npm start`
+## Soft skill to be evaluated
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<li>memory retention</li>
+<li>Problem Solving </li>
+<li>Critical thinking</li>
+<li>Observation power</li>
+<li>Curious nature</li>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
+<h2> Website live link</h2>
+https://puzzle-z7c7.onrender.com
 
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
 
 ### `npm run build`
 
