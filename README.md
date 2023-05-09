@@ -1,13 +1,11 @@
 # PUZZLE GAME
 
-##INTRODUCTION
-It is a basic puzzle game made for the elitmus assignement where user will face a series of queries to be answered in form of quizes and puzzles, everything is nicely presented with the help of music and animations, hope you will enjoy the game.
 
 
 
-## Available Scripts
+## INTRODUCTION
 
-In the project directory, you can run:
+It is an interacting puzzle game that will analyze the visualization , analytical and problem solving ability of the users. There are capable clues provided , which will healp out users to find the answers. The accuracy level of the users is calculated by measuring the score at each page.
 
 ### `npm start`
 
