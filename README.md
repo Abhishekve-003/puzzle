@@ -38,8 +38,16 @@ https://puzzle-z7c7.onrender.com
 <li>minimum 5 clues: yes</li>
 <li>minimum 2 dead ends: yes</li>
 <li>restart feature: yes</li>
-<li>start agin: yes</li>
-<li>User data is stored: yes</li>
+<li>start again: yes</li>
+<li>Logout button: yes</li>
+
+<h2>Tech used</h2>
+<li>Backend: Auth0</li>
+<li>Frontend: React.js,JavaScript,CSS and HTML</li>
+<li>Database: Auth0 </li>
+<h2>Direct paths</h2>
+<p>Login: https://puzzle-z7c7.onrender.com</p>
+
 
 
 ### `npm test`
