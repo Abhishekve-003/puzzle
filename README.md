@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# PUZZLE GAME
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##INTRODUCTION
+It is a basic puzzle game made for the elitmus assignement where user will face a series of queries to be answered in form of quizes and puzzles, everything is nicely presented with the help of music and animations, hope you will enjoy the game.
+
+
 
 ## Available Scripts
 
