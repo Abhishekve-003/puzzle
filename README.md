@@ -19,6 +19,29 @@ It is an interacting puzzle game that will analyze the visualization , analytica
 <h2> Website live link</h2>
 https://puzzle-z7c7.onrender.com
 
+
+<h2>How to play Game</h2>
+<p>First User has to login to the game then he/she will meet with some MCQ type question. Where some question will contain picture which will open after scaning QR code</p>
+
+<h2>Description</h2>
+<p>1. Using A Comic question for checking general knowledge of comic.
+2. Using two picture with differences to check vision.
+3. Using find word puzzle to check vision.
+4. Using words to check word mixing.
+5. Using clue question to check user mind of presence </p>
+
+<h2>Possible Score</h2>
+<p>Every puzzle right question get +1 score and every wrong question -1 score</p>
+
+<h2>CheckList of features</h2>
+<li>Login/Signup with email: yes</li>
+<li>minimum 5 clues: yes</li>
+<li>minimum 2 dead ends: yes</li>
+<li>restart feature: yes</li>
+<li>start agin: yes</li>
+<li>User data is stored: yes</li>
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
