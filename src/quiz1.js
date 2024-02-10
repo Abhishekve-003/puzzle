@@ -30,10 +30,10 @@ function Quiz1() {
     Find the difference  in this picture
  </div>    ,
       Answers: [
-        { Answer: "Stone", isCorrect: false },
-        { Answer: "Sky", isCorrect: true },
-        { Answer: "Grass", isCorrect: false },
-        { Answer: "Egg", isCorrect: true },
+        { Answer: "Tomato", isCorrect: false },
+        { Answer: "Potato", isCorrect: false },
+        { Answer: "Carrot", isCorrect: false },
+        { Answer: "None Of These", isCorrect: true },
       ],
     },
     {
