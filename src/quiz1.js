@@ -26,7 +26,7 @@ function Quiz1() {
     },
     {
       Question: <div className="wholeqr1">
-<img  src="img/qrcode.jpeg " className="qrcode"/> 
+<img  src="img/qrcode.png " className="qrcode"/> 
     Find the difference  in this picture
  </div>    ,
       Answers: [
