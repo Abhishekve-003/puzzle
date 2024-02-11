@@ -32,8 +32,8 @@ function Quiz1() {
       Answers: [
         { Answer: "Tomato", isCorrect: false },
         { Answer: "Potato", isCorrect: false },
-        { Answer: "Carrot", isCorrect: false },
-        { Answer: "None of These", isCorrect: true },
+        { Answer: "Carrot", isCorrect: true },
+        { Answer: "None of These", isCorrect: false },
       ],
     },
     {
